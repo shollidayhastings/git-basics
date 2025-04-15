@@ -1,6 +1,5 @@
 # Example Project
 MCAD project
-Here are some changes.
-
+Avoriaz_casestudy_learning
 Author information:
 Sherry Hastings
